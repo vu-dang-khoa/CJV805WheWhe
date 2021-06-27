@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+.Header{
+    background-color:rgb(100, 89, 216);
+    justify-content: center;
+    padding:1em;
+}
+
+h1{
+    color: yellow;
+    font-weight: bold;
+    font-family: 'Bungee Inline', cursive;
+}

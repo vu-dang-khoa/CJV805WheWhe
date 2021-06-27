@@ -1,0 +1,12 @@
+.big-button{
+    background: rgb(231,239,33);
+    background: radial-gradient(circle, rgba(231,239,33,1) 0%, rgba(231,151,85,1) 100%);
+    color: Black;
+    border-style:solid;
+    border-color:grey;
+    align-items: center; 
+    text-align: center;
+    justify-content: center;
+    font-weight:900;
+    border-width: thick;
+}

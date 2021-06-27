@@ -1,0 +1,13 @@
+.button{
+    background-color:black;
+    color: yellow;
+    border-style:solid;
+    border-color:grey;
+    align-items: center; 
+    text-align: center;
+    justify-content: center;
+    font-weight:900;
+    width:100%;
+    height:100%;
+    border-width: thick; 
+}

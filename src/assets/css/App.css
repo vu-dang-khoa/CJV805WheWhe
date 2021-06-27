@@ -1,0 +1,59 @@
+table{
+  width:100%;
+}
+td{
+  width:16.6666667%;
+}
+
+td img {
+  max-width:100%;
+  height:auto;
+}
+.display-table{
+  display:table;
+  width:100%;
+}
+
+.display-table-row{
+  display:table-row;
+}
+.mainDiv{
+  position: fixed;
+  background-color: rgb(231, 205, 87);
+  height:100%;
+  width:100%;
+  overflow-x: hidden;
+}
+.inline-block{
+  vertical-align: top;
+  position: relative; 
+  display: inline-block; 
+  margin: 1em 0.1em 0.1em 0.8%; 
+  padding: 0.1em; 
+  background: #ebebfb; 
+}
+
+.selected-number-wrapper{
+  height:80%;
+}
+#money-button-div { 
+  width: 25%; 
+  background-color: inherit;
+  
+ } 
+ #number-button-div { 
+  width: 50%; 
+  
+ } 
+ #selected-numbers-div {
+  margin-left: 2em;
+  height: 23em; 
+  width: 15%; 
+  border-style: solid;
+  border-color: rgb(100, 89, 216);
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(224,122,50,0.6507645294445903) 1%, rgba(241,255,0,1) 100%);
+  color: white;
+  border-width: thick;
+ }
+ 
